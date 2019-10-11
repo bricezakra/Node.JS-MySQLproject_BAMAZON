@@ -23,7 +23,7 @@ BAMAZON is a Node.js command line interface that utilizez MySQL database to crea
 
 Clone Bamazon to your local git repo like the following:
 
-> git clone git@github.com:sajadgzd/bamazon.git
+> https://github.com/bricezakra/Node.JS-MySQLproject_BAMAZON.git
 
 The Bamazon project and its files should now be in your project folder.
 
