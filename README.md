@@ -1,6 +1,6 @@
-# Node.JS-MySQLproject
+# Node.JS-MySQLproject_BAMAZON
 
-# BAMAZON
+## BAMAZON
 
 ## Table of Contents 
 1. [Overview](#overview)
