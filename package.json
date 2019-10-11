@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/bricezakra/Node.JS-MySQLproject_BAMAZON/issues"
   },
-  "homepage": "https://github.com/bricezakra/Node.JS-MySQLproject_BAMAZON#readme"
+  "homepage": "https://github.com/bricezakra/Node.JS-MySQLproject_BAMAZON#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "dotenv": "^8.1.0",
+    "inquirer": "^7.0.0",
+    "mysql": "^2.17.1"
+  },
+  "devDependencies": {}
 }
