@@ -99,6 +99,8 @@ connection.connect(function(err) {
  7. Add New Products will prompt the user to select a department. Note that this a `rawlist` so option selection must be done through the number keys.
  8. After each `manage`, you can choose to continue or exit by using the up and down arrow keys on your keyboard (exit early with `ctrl + c`)
  9. If you select no, connection to your MySQL ends
+
+
 ![Demo for Manager View](/assets/...)
 
 
@@ -123,4 +125,6 @@ connection.connect(function(err) {
 6. View Sales by Departments give you an overview of the PnL of each department. Note that Sales and Pnl are not part of our table in MySQL. Instead, they are created on the fly 
 8. After each `supervise`, you can choose to continue or exit by using the up and down arrow keys on your keyboard (exit early with `ctrl + c`)
 9. If you select no, connection to your MySQL ends
+
+
 ![Demo for Supervisor View](/assets/...)
