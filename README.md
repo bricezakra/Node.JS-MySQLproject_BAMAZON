@@ -127,4 +127,4 @@ connection.connect(function(err) {
 9. If you select no, connection to your MySQL ends
 
 
-![Demo for Supervisor View](/assets/...)
+![Demo for Supervisor View](/assets/Supervisor/supervisor.gif)
