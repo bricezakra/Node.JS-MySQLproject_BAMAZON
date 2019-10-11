@@ -101,7 +101,7 @@ connection.connect(function(err) {
  9. If you select no, connection to your MySQL ends
 
 
-![Demo for Manager View](/assets/...)
+![Demo for Manager View](/assets/Manager/manager.gif)
 
 
 <a name="supervisor"></a>
