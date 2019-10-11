@@ -1,6 +1,4 @@
-# Node.JS-MySQLproject_BAMAZON
-
-BAMAZON is a Node.js CLI (Command Line Interface) utilizing MySQL database to create a virtual store experience. Users can take on the role of either Customer, Manager, or Supervisor and interact with the store through different commands.
+# Node.JS-MySQLproject
 
 # BAMAZON
 
@@ -14,7 +12,7 @@ BAMAZON is a Node.js CLI (Command Line Interface) utilizing MySQL database to cr
 <a name="overview"></a>
 ## Overview 
 
-BAMAZON is a Node.js command line interface that utilizez MySQL database to create a virtual store experience. Users can take on the role of either customer, manager, or supervisor and interact with the store through different commands. 
+BAMAZON is a Node.js command line interface that utilizes MySQL database to create a virtual store experience. Users can take on the role of either customer, manager, or supervisor and interact with the store through different commands. 
 
 <a name="installation"></a>
 ## Installation
